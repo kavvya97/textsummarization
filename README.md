@@ -1,5 +1,6 @@
-
 # Text Summarization
+### Authors: Kavvya Ramarathnam, Sindhu Vydana, Sri Lekha
+
 
 Implementation of a text summarization tool to help users quickly identify and understand the main points of a document without having to read through the entire document. The tool will be available as a web extension.
 
